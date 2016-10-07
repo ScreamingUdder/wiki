@@ -1,1 +1,1 @@
-WIKI is (here) [https://github.com/ScreamingUdder/wiki/wiki]
+WIKI is [here](https://github.com/ScreamingUdder/wiki/wiki)
